@@ -1,0 +1,21 @@
+# Site settings
+title: My Guatemalan Coding Adventures 
+header-img: img/home-bg.png
+email: yohan.mejiapark@gmail.com
+copyright_name: yohan1992
+description: > # this means to ignore newlines until "baseurl:"
+  Guatemalan - Korean - El Salvadorean Learning How To Code
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  yohan1992
+learn_profile: yohan1992
+email_username: yohan.mejiapark@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
