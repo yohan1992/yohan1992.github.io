@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "****Pursuing Life Goals"
-date:   2016-11-17 19:15:05 +0000
+title:  "Pursuing Life Goals"
+date:   2016-11-17 14:15:05 -0500
 ---
 
 Why do I want to learn how to code? Simple answer...to pursue my goals in life. So what are my life goals? My first goal is to make my family proud and to give back to my parents who dedicated their lives to my brother and me. My second goal is to give back to the country where I was born and raised. My third goal is to always find a way to make any situation positive. So how do these life goals come back to coding?
